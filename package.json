@@ -1,0 +1,16 @@
+{
+  "name": "angular test demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor-conf.js",
+  "scripts": {
+    "test": "./node_modules/.bin/protractor protractor-conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "httpbackend": "^2.0.0",
+    "jasmine-core": "^2.5.2",
+    "protractor": "^5.1.1"
+  }
+}

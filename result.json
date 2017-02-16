@@ -1,0 +1,20 @@
+[
+  {
+    "description": "A test should diplay raoul in result",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 403
+  },
+  {
+    "description": "A test should diplay raoul in result",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2
+  }
+]
