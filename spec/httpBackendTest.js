@@ -11,7 +11,7 @@ describe('A test', function() {
         backend.clear();
     });
 
-    it('should diplay raoul in result', function() {
+    it('should diplay Ben in result', function() {
         backend.whenGET(/exampleResponse/).respond({"name": "Ben"});
         browser.get('http://localhost:8000');
         expect($('#gname').getText()).toBe("Ben");
